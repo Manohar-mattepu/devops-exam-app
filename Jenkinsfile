@@ -91,7 +91,6 @@ pipeline {
 }
 
 
-#Docker Push Is Included Below
 pipeline {
     agent any
 
@@ -199,7 +198,7 @@ pipeline {
     }
 }
 
-----------------------------------------------------------K8S-----------------------
+
 pipeline {
     agent any
 

@@ -6,8 +6,6 @@ pipeline {
 
     DOCKER_IMAGE = "manoharmattepu/devopsexauapp:latest"
 
-    SCANNER HOME = tool 'sonar-scanner
-
     }
 
     stages {
